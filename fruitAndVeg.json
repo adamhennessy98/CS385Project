@@ -12,7 +12,84 @@
   "Name": "Turnip",
 "Type": "Vegetable",
 "Price": 1.50
-}
+},
+
+    {
+      "ID " : 3,
+      "Name": "Cauliflower",
+      "Type": "Vegetable",
+      "Price": 2.75
+    },
+
+    {
+      "ID " : 4,
+      "Name": "Brussels Sprouts",
+      "Type": "Vegetable",
+      "Price": 1.5
+    },
+
+    {
+      "ID " : 5,
+      "Name": "Cabbage",
+      "Type": "Vegetable",
+      "Price": 1.75
+    },
+
+    {
+      "ID " : 6,
+      "Name": "Broccoli",
+      "Type": "Vegetable",
+      "Price": 0.5
+    },
+
+    {
+      "ID " : 7,
+      "Name": "Potato",
+      "Type": "Vegetable",
+      "Price": 0.75
+    },
+
+    {
+      "ID " : 8,
+      "Name": "Onion",
+      "Type": "Vegetable",
+      "Price": 1
+    },
+
+    {
+      "ID " : 9,
+      "Name": "Mushroom",
+      "Type": "Vegetable",
+      "Price": 2
+    },
+
+    {
+      "ID " : 10,
+      "Name": "Lettuce",
+      "Type": "Vegetable",
+      "Price": 1.5
+    },
+
+    {
+      "ID " : 11,
+      "Name": "Asparagus",
+      "Type": "Vegetable",
+      "Price": 1
+    },
+
+    {
+      "ID " : 12,
+      "Name": "Beetroot",
+      "Type": "Vegetable",
+      "Price": 2.5
+    },
+
+    {
+      "ID " : 13,
+      "Name": "Spinach",
+      "Type": "Vegetable",
+      "Price": 0.75
+    }
   ],
 
   "fruit": [
@@ -27,8 +104,83 @@
       "Name": "Oranges",
       "Type": "Fruit",
       "Price": 2.50
-    }
+    },
+    {
+      "ID " : 3,
+      "Name": "Strawberry",
+      "Type": "Fruit",
+      "Price": 2
+    },
 
+    {
+      "ID " : 4,
+      "Name": "Lemon",
+      "Type": "Fruit",
+      "Price": 1
+    },
+
+    {
+      "ID " : 5,
+      "Name": "Banana",
+      "Type": "Fruit",
+      "Price": 0.75
+    },
+
+    {
+      "ID " : 6,
+      "Name": "Peach",
+      "Type": "Fruit",
+      "Price": 1.5
+    },
+
+    {
+      "ID " : 7,
+      "Name": "Raspberry",
+      "Type": "Fruit",
+      "Price": 2.5
+    },
+
+    {
+      "ID " : 8,
+      "Name": "Kiwi",
+      "Type": "Fruit",
+      "Price": 1.75
+    },
+
+    {
+      "ID " : 9,
+      "Name": "Pinapple",
+      "Type": "Fruit",
+      "Price": 3
+    },
+
+    {
+      "ID " : 10,
+      "Name": "Pear",
+      "Type": "Fruit",
+      "Price": 2
+    },
+
+    {
+      "ID " : 11,
+      "Name": "Blueberries",
+      "Type": "Fruit",
+      "Price": 3.5
+    },
+
+    {
+      "ID " : 12,
+      "Name": "Grapes",
+      "Type": "Fruit",
+      "Price": 1.75
+    },
+
+    {
+      "ID " : 13,
+      "Name": "Cherries",
+      "Type": "Fruit",
+      "Price": 2.75
+    }
   ]
 
 
