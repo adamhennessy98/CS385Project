@@ -1,22 +1,31 @@
 import React, { Component } from "react";
-import {fruitAndVegArray} from "./fruitAndVeg";
-import {BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import './App.css';
-import InfoPage from "./InfoPage";
-
-//const fruitNVeg = fruitAndVegArray;
 
 class App extends Component {
   constructor(props) {
     super(props);
-
       this.state = {
           apiData: [],
           isFetched: false,
           errorMsg: null
       };
   }
-
+  functionName(title, data){
+      return(
+          <div>
+              <h1>{title}</h1>
+              {data && data.map((i) => (
+                  <li key={i.ID}>
+                      <b>Name: </b> {i.Name} &nbsp;&nbsp;
+                      <b>Type: </b> {i.Type} &nbsp;&nbsp;
+                      <b>Price: </b> ${i.Price} &nbsp;&nbsp;
+                      <a href = {i.ref} >Learn more</a>
+                      <hr/>
+                  </li>
+              ))}
+          </div>
+      )
+  }
 
     async componentDidMount() {
         try {
@@ -30,7 +39,8 @@ class App extends Component {
             // update the state variables correctly.
             // Check the JSON response carefully - is there an array name?
             // here the array name is results.
-            this.setState({ apiData: jsonResult.vegetable });
+            this.setState({ apiData: jsonResult });
+            console.log("What is this " + jsonResult);
             this.setState({ isFetched: true });
         } catch (error) {
             // In the case of an error ...
@@ -43,22 +53,17 @@ class App extends Component {
   render(){
   return(
       <div>
-        <h1>Vegetables</h1>
-        {this.state.apiData.map((i) => (
-            <li key={i.ID}>
-              <b>Name: </b> {i.Name} &nbsp;&nbsp;
-              <b>Type: </b> {i.Type} &nbsp;&nbsp;
-              <b>Price: </b> ${i.Price} &nbsp;&nbsp;
-                <a href = "https://www.w3schools.com/tags/tag_a.asp">Learn more</a>
-                <hr/>
-            </li>
-          ))}
-      </div>
+          {this.functionName("Vegetables", this.state.apiData.vegetable)}
 
+
+          {this.functionName("Fruit", this.state.apiData.fruit)}
+
+      </div>
 
 
   );//End of return statement
   }//End of render
+
 }
 
 export default App;
