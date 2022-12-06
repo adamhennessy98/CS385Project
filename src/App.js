@@ -53,7 +53,7 @@ class App extends Component {
   render(){
   return(
       <div>
-          {this.functionName("Vegetables", this.state.apiData.vegetable)}
+          {this.functionName("Vegetabless", this.state.apiData.vegetable)}
 
 
           {this.functionName("Fruit", this.state.apiData.fruit)}
