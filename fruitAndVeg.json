@@ -3,8 +3,7 @@
   {
   "ID" : 1,
   "Name": "Carrot",
-    "Type": "Vegetable",
-    "Weight in  grams":50,
+    "Weight":49,
   "Price": 2,
     "ref": "https://www.healthline.com/nutrition/foods/carrots"
 },
@@ -12,8 +11,7 @@
 {
     "ID" : 2,
     "Name": "Turnip",
-    "Type": "Vegetable",
-    "Weight in  grams":50,
+    "Weight":67,
     "Price": 1.50,
     "ref": "https://www.medicalnewstoday.com/articles/284815"
 },
@@ -21,8 +19,7 @@
     {
       "ID" : 3,
       "Name": "Cauliflower",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":48,
       "Price": 2.75,
       "ref": "https://www.bbcgoodfood.com/recipes/collection/cauliflower-recipes"
     },
@@ -30,8 +27,7 @@
     {
       "ID" : 4,
       "Name": "Brussels Sprouts",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":41,
       "Price": 1.5,
       "ref": "https://www.bbcgoodfood.com/recipes/collection/brussel-sprouts-recipes"
     },
@@ -39,8 +35,7 @@
     {
       "ID" : 5,
       "Name": "Cabbage",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":30,
       "Price": 1.75,
       "ref": "https://www.greatbritishchefs.com/how-to-cook/how-to-cook-cabbage"
     },
@@ -48,8 +43,7 @@
     {
       "ID" : 6,
       "Name": "Broccoli",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":47,
       "Price": 0.5,
       "ref": "https://www.bbcgoodfood.com/recipes/collection/broccoli-recipes"
     },
@@ -57,8 +51,7 @@
     {
       "ID" : 7,
       "Name": "Potato",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":85,
       "Price": 0.75,
       "ref": "https://www.potato.ie/"
     },
@@ -66,8 +59,7 @@
     {
       "ID" : 8,
       "Name": "Onion",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":66,
       "Price": 1,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -75,8 +67,7 @@
     {
       "ID" : 9,
       "Name": "Mushroom",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":51,
       "Price": 2,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -84,8 +75,7 @@
     {
       "ID" : 10,
       "Name": "Lettuce",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":20,
       "Price": 1.5,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -93,8 +83,7 @@
     {
       "ID" : 11,
       "Name": "Asparagus",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":38,
       "Price": 1,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -102,8 +91,7 @@
     {
       "ID" : 12,
       "Name": "Beetroot",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":54,
       "Price": 2.5,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -111,8 +99,7 @@
     {
       "ID" : 13,
       "Name": "Spinach",
-      "Type": "Vegetable",
-      "Weight in  grams":50,
+      "Weight":23,
       "Price": 0.75,
       "ref": "https://www.healthline.com/nutrition/foods/carrots"
     },
@@ -120,102 +107,89 @@
     {
       "ID" : 14,
       "Name": "Apples",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":48,
       "Price": 2
     },
     {
       "ID" : 15,
       "Name": "Oranges",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":57,
       "Price": 2.50
     },
     {
       "ID" : 16,
       "Name": "Strawberry",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":26,
       "Price": 2
     },
 
     {
       "ID" : 17,
       "Name": "Lemon",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":38,
       "Price": 1
     },
 
     {
       "ID" : 18,
       "Name": "Banana",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":55,
       "Price": 0.75
     },
 
     {
       "ID" : 19,
       "Name": "Peach",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":50,
       "Price": 1.5
     },
 
     {
       "ID" : 20,
       "Name": "Raspberry",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":15,
       "Price": 2.5
     },
 
     {
       "ID" : 21,
       "Name": "Kiwi",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":31,
       "Price": 1.75
     },
 
     {
       "ID" : 22,
       "Name": "Pineapple",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":51,
       "Price": 3
     },
 
     {
       "ID" : 23,
       "Name": "Pear",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":29,
       "Price": 2
     },
 
     {
       "ID" : 24,
       "Name": "Blueberries",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":15,
       "Price": 3.5
     },
 
     {
       "ID" : 25,
       "Name": "Grapes",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":36,
       "Price": 1.75
     },
 
     {
       "ID" : 26,
       "Name": "Cherries",
-      "Type": "Fruit",
-      "Weight in  grams":50,
+      "Weight":55,
       "Price": 2.75
     }
   ]
