@@ -1,13 +1,13 @@
 import React from "react";
 
-function InfoPage(props){
+function Produce(props){
     return(
         <div>
             <h2>
-                This is every piece of info needed
+                This is the section for produce
             </h2>
 
         </div>
     )
 }
-export default InfoPage;
+export default Produce;
