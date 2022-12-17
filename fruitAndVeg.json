@@ -4,193 +4,284 @@
   "ID" : 1,
   "Name": "Carrot",
     "Weight":49,
+    "Type": "Vegetable",
   "Price": 2,
-    "ref": "https://www.healthline.com/nutrition/foods/carrots"
+    "Price-seeds": 0.5,
+    "ref": "https://www.healthline.com/nutrition/foods/carrots",
+    "recp":"https://www.bbcgoodfood.com/recipes/collection/carrot-recipes"
 },
 
 {
     "ID" : 2,
     "Name": "Turnip",
     "Weight":67,
+  "Type": "Vegetable",
     "Price": 1.50,
-    "ref": "https://www.medicalnewstoday.com/articles/284815"
+  "Price-seeds": 0.75,
+    "ref": "https://www.medicalnewstoday.com/articles/284815",
+  "recp": "https://www.bbcgoodfood.com/recipes/collection/turnip-recipes"
 },
 
     {
       "ID" : 3,
       "Name": "Cauliflower",
       "Weight":48,
+      "Type": "Vegetable",
       "Price": 2.75,
-      "ref": "https://www.bbcgoodfood.com/recipes/collection/cauliflower-recipes"
+      "Price-seeds": 0.45,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-cauliflower",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/cauliflower-recipes"
     },
 
     {
       "ID" : 4,
       "Name": "Brussels Sprouts",
       "Weight":41,
+      "Type": "Vegetable",
       "Price": 1.5,
-      "ref": "https://www.bbcgoodfood.com/recipes/collection/brussel-sprouts-recipes"
+      "Price-seeds": 0.95,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-brussels-sprouts",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/brussel-sprouts-recipes"
     },
 
     {
       "ID" : 5,
       "Name": "Cabbage",
       "Weight":30,
+      "Type": "Vegetable",
       "Price": 1.75,
-      "ref": "https://www.greatbritishchefs.com/how-to-cook/how-to-cook-cabbage"
+      "Price-seeds": 0.55,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-cabbage",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/cabbage-recipes"
     },
 
     {
       "ID" : 6,
       "Name": "Broccoli",
       "Weight":47,
+      "Type": "Vegetable",
       "Price": 0.5,
-      "ref": "https://www.bbcgoodfood.com/recipes/collection/broccoli-recipes"
+      "Price-seeds": 0.35,
+      "ref": "https://www.healthline.com/nutrition/foods/broccoli",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/broccoli-recipes"
     },
 
     {
       "ID" : 7,
       "Name": "Potato",
       "Weight":85,
+      "Type": "Vegetable",
       "Price": 0.75,
-      "ref": "https://www.potato.ie/"
+      "Price-seeds": 0.60,
+      "ref": "https://www.potato.ie/",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/potato-recipes"
     },
 
     {
       "ID" : 8,
       "Name": "Onion",
       "Weight":66,
+      "Type": "Vegetable",
       "Price": 1,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 0.5,
+      "ref": "https://www.healthline.com/nutrition/foods/onions#:~:text=Onions%20contain%20antioxidants%20and%20compounds,and%20protect%20against%20blood%20clots.",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/onion-recipes"
     },
 
     {
       "ID" : 9,
       "Name": "Mushroom",
       "Weight":51,
+      "Type": "Vegetable",
       "Price": 2,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 0.75,
+      "ref": "https://www.healthline.com/health/food-nutrition/are-mushrooms-good-for-you",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/mushroom-recipes"
     },
 
     {
       "ID" : 10,
       "Name": "Lettuce",
       "Weight":20,
+      "Type": "Vegetable",
       "Price": 1.5,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 0.54,
+      "ref": "https://www.healthline.com/health/food-nutrition/iceberg-lettuce",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/lettuce-recipes"
     },
 
     {
       "ID" : 11,
       "Name": "Asparagus",
       "Weight":38,
+      "Type": "Vegetable",
       "Price": 1,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 1,
+      "ref": "https://www.healthline.com/nutrition/asparagus-benefits#:~:text=It's%20low%20in%20calories%20and,outcomes%20and%20lower%20blood%20pressure.",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/asparagus-recipes"
     },
 
     {
       "ID" : 12,
       "Name": "Beetroot",
       "Weight":54,
+      "Type": "Vegetable",
       "Price": 2.5,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 0.45,
+      "ref": "https://www.healthline.com/nutrition/foods/beetroot#:~:text=Packed%20with%20essential%20nutrients%2C%20beetroots,pressure%2C%20and%20increased%20exercise%20performance.",
+      "recp":"https://www.bbcgoodfood.com/recipes/collection/beetroot-recipes"
     },
 
     {
       "ID" : 13,
       "Name": "Spinach",
       "Weight":23,
+      "Type": "Vegetable",
       "Price": 0.75,
-      "ref": "https://www.healthline.com/nutrition/foods/carrots"
+      "Price-seeds": 0.35,
+      "ref": "https://www.healthline.com/nutrition/foods/spinach",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/spinach-recipes"
     },
 
     {
       "ID" : 14,
       "Name": "Apples",
       "Weight":48,
-      "Price": 2
+      "Type": "Vegetable",
+      "Price": 2,
+      "Price-seeds": 0.5,
+      "ref": "https://www.healthline.com/nutrition/10-health-benefits-of-apples#:~:text=Apples%20are%20an%20incredibly%20nutritious,improve%20gut%20and%20brain%20health.",
+      "recp": "https://www.bbcgoodfood.com/recipes/raspberry-and-apple-smoothie"
     },
     {
       "ID" : 15,
       "Name": "Oranges",
       "Weight":57,
-      "Price": 2.50
+      "Type": "Vegetable",
+      "Price": 2.50,
+      "Price-seeds": 0.70,
+      "ref": "https://www.healthline.com/nutrition/oranges",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/orange-smoothie-recipes"
     },
     {
       "ID" : 16,
       "Name": "Strawberry",
       "Weight":26,
-      "Price": 2
+      "Type": "Vegetable",
+      "Price": 2,
+      "Price-seeds": 0.85,
+      "ref": "https://www.healthline.com/nutrition/foods/strawberries",
+      "recp": "https://www.bbcgoodfood.com/recipes/strawberry-smoothie"
     },
 
     {
       "ID" : 17,
       "Name": "Lemon",
       "Weight":38,
-      "Price": 1
+      "Type": "Vegetable",
+      "Price": 1,
+      "Price-seeds": 0.55,
+      "ref": "https://www.healthline.com/nutrition/6-lemon-health-benefits#:~:text=Lemons%20contain%20a%20high%20amount,%2C%20digestive%20issues%2C%20and%20cancer.",
+      "recp": "https://www.bbcgoodfood.com/recipes/lemon-drizzle-cake"
     },
 
     {
       "ID" : 18,
       "Name": "Banana",
       "Weight":55,
-      "Price": 0.75
+      "Type": "Vegetable",
+      "Price": 0.75,
+      "Price-seeds": 0.60,
+      "ref": "https://www.healthline.com/nutrition/11-proven-benefits-of-bananas",
+      "recp": "https://www.bbcgoodfood.com/recipes/collection/banana-smoothie-recipes"
     },
 
     {
       "ID" : 19,
       "Name": "Peach",
       "Weight":50,
-      "Price": 1.5
+      "Type": "Vegetable",
+      "Price": 1.5,
+      "Price-seeds": 0.55,
+      "ref": "https://www.healthline.com/nutrition/peach-fruit-benefits",
+      "recp": "https://www.wellplated.com/peach-smoothie/"
     },
 
     {
       "ID" : 20,
       "Name": "Raspberry",
       "Weight":15,
-      "Price": 2.5
+      "Type": "Vegetable",
+      "Price": 2.5,
+      "Price-seeds": 0.45,
+      "ref": "https://www.healthline.com/nutrition/raspberry-nutrition",
+      "recp": "https://www.bbcgoodfood.com/recipes/raspberry-and-apple-smoothie"
     },
 
     {
       "ID" : 21,
       "Name": "Kiwi",
       "Weight":31,
-      "Price": 1.75
+      "Type": "Vegetable",
+      "Price": 1.75,
+      "Price-seeds": 0.85,
+      "ref": "https://www.healthline.com/nutrition/kiwi-benefits",
+      "recp": "https://www.bbcgoodfood.com/recipes/kiwi-fruit-smoothie"
     },
 
     {
       "ID" : 22,
       "Name": "Pineapple",
       "Weight":51,
-      "Price": 3
+      "Type": "Vegetable",
+      "Price": 3,
+      "Price-seeds": 0.55,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-pineapple",
+      "recp": "https://www.bbcgoodfood.com/recipes/pineapple-smoothie"
     },
 
     {
       "ID" : 23,
       "Name": "Pear",
       "Weight":29,
-      "Price": 2
+      "Type": "Vegetable",
+      "Price": 2,
+      "Price-seeds": 0.65,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-pears",
+      "recp": "https://www.safefood.net/recipes/pear-kiwi-banana-smoothies"
     },
 
     {
       "ID" : 24,
       "Name": "Blueberries",
       "Weight":15,
-      "Price": 3.5
+      "Type": "Vegetable",
+      "Price": 3.5,
+      "Price-seeds": 0.75,
+      "ref": "https://www.healthline.com/nutrition/10-proven-benefits-of-blueberries",
+      "recp": "https://natashaskitchen.com/blueberry-pear-smoothie-recipe/"
     },
 
     {
       "ID" : 25,
       "Name": "Grapes",
       "Weight":36,
-      "Price": 1.75
+      "Type": "Vegetable",
+      "Price": 1.75,
+      "Price-seeds": 0.35,
+      "ref": "https://www.healthline.com/nutrition/benefits-of-grapes",
+      "recp": "https://www.eatingwell.com/recipe/261620/grapes-cheese/"
     },
 
     {
       "ID" : 26,
       "Name": "Cherries",
       "Weight":55,
-      "Price": 2.75
+      "Type": "Vegetable",
+      "Price": 2.75,
+      "Price-seeds": 0.5,
+      "ref": "https://www.healthline.com/nutrition/cherries-benefits",
+      "recp": "https://shop.supervalu.ie/shopping/fruit-vegetables-peaches-plums-nectarines-supervalu-cherries-180-g-/p-1450324000"
     }
   ]
 }
